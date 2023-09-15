@@ -1,3 +1,6 @@
 System.out.println("이것은 더미파일입니다.");
 
 System.out.println("Push 실습입니다.");
+
+System.out.println("구문을 추가했습니다.");
+
